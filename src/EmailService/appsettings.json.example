@@ -1,0 +1,18 @@
+{
+  "Logging": {
+    "LogLevel": {
+      "Default": "Information",
+      "Microsoft.AspNetCore": "Warning"
+    }
+  },
+  "AllowedHosts": "*",
+  "MailSettings": {
+    "Host": "smtp.gmail.com",
+    "Port": 587,
+    "EmailId": "your@gmail.com",
+    "UserName": "your@gmail.com",
+    "Password": "yourpassword",
+    "Name": "Name",
+    "UseSSL": true
+  }
+}
